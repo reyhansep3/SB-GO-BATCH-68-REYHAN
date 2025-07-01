@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Reyhan Septri Asta
+2. Email: reyhanseptri@gmail.com  
+3. Sistem Operasi yang digunakan: Macbook 
+4. Akun Github: reyhansep3
+5. Akun Telegram: @ReyhanSeptriAsta
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : FE
+7. Umur: 23
+8. Pernah menggunakan Go? : Belum
+9. Bahasa Pemrograman yg pernah dipelajari: Dart, C++, php
+10. Pernah membuat REST API? : Belum
