@@ -11,15 +11,14 @@ func main() {
 	var hasilPiramid = ""
 	var i = 0
 	var j = 0
-	var jumlahPagarVertikal = 7
-	var jumlahPagarHorizontal = 7
+	var jumlahPagar = 7
 
-	for i < jumlahPagarHorizontal {
-		hasilPiramid += ""
-		for j < jumlahPagarVertikal && j == i {
+	for i < jumlahPagar {
+		for j < jumlahPagar && j == i {
 			hasilPiramid += "#"
 			j++
 		}
+		hasilPiramid += ""
 		i++
 		fmt.Println(hasilPiramid)
 	}
