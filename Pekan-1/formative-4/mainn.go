@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-
 	//soal 1
 	var hasilPiramid = ""
 	var i = 0
